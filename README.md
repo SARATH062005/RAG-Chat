@@ -45,6 +45,11 @@ No external APIs. No cloud. No data leaves your machine.
 
 ## Architecture
 
+<p align="center">
+  <img src="imgs/1_.png" width="700" alt="Phase - 1">
+  <img src="imgs/2_.jpeg" width="700" alt="Phase - 2">
+</p>
+
 ```mermaid
 graph TD
     User --> Frontend[React Web UI]
